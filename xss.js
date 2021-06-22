@@ -1,1 +1,1 @@
-alert(docuemnt.domain)
+alert(document.domain)
